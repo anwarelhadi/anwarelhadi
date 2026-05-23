@@ -24,7 +24,7 @@ I am **Anwar Elhadi**, a **Telecommunications Engineering** student deeply passi
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anwarelhadi&show_icons=true&theme=radial" alt="Anwar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/anwarelhadi/anwarelhadi&show_icons=true&theme=radial" alt="Anwar's GitHub Stats" />
 </p>
 
 ---
