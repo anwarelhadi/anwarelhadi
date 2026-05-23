@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Anwar Al-Hadi!
 
-<!--
-**anwarelhadi/anwarelhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20SOC-red?style=for-the-badge&logo=shield" alt="Focus">
+  <img src="https://img.shields.io/badge/Education-Telecom%20Engineering-blue?style=for-the-badge&logo=telecom" alt="Education">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+I am **Anwar Al-Hadi**, a **Telecommunications Engineering** student deeply passionate about **Cybersecurity**. I am currently focusing on building my skills to become a **SOC Analyst**, leveraging my knowledge of network systems to defend, monitor, and secure digital environments.
+
+---
+
+### 🛠️ Skills & Interests
+
+* 🛡️ **Cybersecurity:** SOC Operations, Incident Response, Threat Detection & Analysis.
+* 📡 **Networking:** Telecommunication Systems, Network Security, Protocols (TCP/IP).
+* 🚀 **Currently Learning:** SIEM Tools, Log Analysis, Network Traffic Analysis.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anwarelhadi&show_icons=true&theme=radial" alt="Anwar's GitHub Stats" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+* 💼 **LinkedIn:** linkedin.com/in/anwar-elhadi-037531293
+* 📧 **Email:** anwarelhadi95@gmail.com
