@@ -19,15 +19,20 @@ I am **Anwar Elhadi**, a **Telecommunications Engineering** student deeply passi
 * 📡 **Networking:** Telecommunication Systems, Network Security, Protocols (TCP/IP).
 * 🚀 **Currently Learning:** SIEM Tools, Log Analysis, Network Traffic Analysis.
 
+
+
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/anwarelhadi/anwarelhadi&show_icons=true&theme=radial" alt="Anwar's GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=anwarelhadi&show_icons=true&theme=radial&white_border=true" alt="Anwar's GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=anwarelhadi&layout=compact&theme=radial&white_border=true" alt="Top Languages" />
 </p>
 
 ---
+
 
 ### 🤝 Connect with Me
 
