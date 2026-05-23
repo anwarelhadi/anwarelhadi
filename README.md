@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anwar ElHadi!
+# 👋 Hi, I'm Anwar Elhadi!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20SOC-red?style=for-the-badge&logo=shield" alt="Focus">
@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-I am **Anwar ElHadi**, a **Telecommunications Engineering** student deeply passionate about **Cybersecurity**. I am currently focusing on building my skills to become a **SOC Analyst**, leveraging my knowledge of network systems to defend, monitor, and secure digital environments.
+I am **Anwar Elhadi**, a **Telecommunications Engineering** student deeply passionate about **Cybersecurity**. I am currently focusing on building my skills to become a **SOC Analyst**, leveraging my knowledge of network systems to defend, monitor, and secure digital environments.
 
 ---
 
