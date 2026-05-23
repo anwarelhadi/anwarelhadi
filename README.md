@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anwar Al-Hadi!
+# 👋 Hi, I'm Anwar El-Hadi!
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20SOC-red?style=for-the-badge&logo=shield" alt="Focus">
